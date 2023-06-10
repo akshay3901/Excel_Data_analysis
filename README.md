@@ -40,6 +40,7 @@ Store Data_Raw.xlsx
 
 6. Data insights
 
+![image](https://github.com/akshay3901/Excel_Data_analysis/assets/62876542/482c7c8b-3013-452c-816f-20a2038d4874)
 
 
 
