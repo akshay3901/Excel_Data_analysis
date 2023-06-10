@@ -28,17 +28,17 @@ Highest selling category?
 
 **Process**
 
-Understand Business Problem and client needs acc that gather data and expore data.
+1.Understand Business Problem and client needs acc that gather data and expore data.
 
-Data cleaning
+2.Data cleaning
 
-Data Procsessing
+3.Data Procsessing
 
-Data Analysis
+4.Data Analysis
 
-Data visualization and create dynamic and interactive dashboard
+5.Data visualization and create dynamic and interactive dashboard
 
-Data insights
+6.Data insights
 
 
 
